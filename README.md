@@ -10,10 +10,10 @@ This application helps teachers easily manage and track student attendance recor
 - Simple and responsive user interface  
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript  
 - **Backend:** Spring Boot, Java  
 - **Database:** MySQL (or any relational database)  
 - **Build Tools:** Maven / npm
 
   ## For Frontend use following repository:
+  https://github.com/rushisuryawanshi18/Student-Attendance-Management-System-React/tree/main
   
